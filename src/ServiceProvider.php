@@ -1,14 +1,14 @@
 <?php
 /**
- * This file is part of Packager project.
+ * This file is part of Pckgr project.
  *
- * @package   Chriscubos\Packager.
+ * @package   Chriscubos\Pckgr.
  * @copyright (c) 2016 Philippine Global Outsourcing. All Rights Reserved.
  * @copyright (c) Copyright 2016 Christopher John Cubos.
  * @author    Christopher John Cubos <philippineoutsourcing@gmail.com>
  * @link      http://philippinegloblaoutsourcing.com
  * @link      https://github.com/philippineglobaloutsourcing
- * @link      https://github.com/chriscubos/packager
+ * @link      https://github.com/chriscubos/pckgr
  * @version   1.0-dev
  * @license   MIT 
  * @since     August 31, 2016 10:08:28 am (Wednesday)
@@ -17,7 +17,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Chriscubos\Packager;
+namespace Chriscubos\Pckgr;
 
 use Illuminate\Support\Facades\File;
 use Illuminate\Contracts\Foundation\Application;
