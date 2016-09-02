@@ -1,0 +1,43 @@
+{
+    "name": "chriscubos/packager",
+    "type": "library",
+    "description": "Automagic package installer. One line of code to publish.",
+    "keywords": [
+        "Chriscubos",
+        "Laravel Package Builder",
+        "Packager",
+        "Packagist",
+        "Package Class",
+        "Service Provider"
+    ],
+    "homepage": "https://github.com/chriscubos/packager",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christopher John Cubos",
+            "email": "chriscubos@outlook.com",
+            "role": "Master"
+        },
+        {
+            "name": "Ethan Sky Cubos",
+            "email": "sky@philippineglobaloutsourcing.com",
+            "role": "Apprentice"
+        }
+    ],
+    "require": {
+        "php" : "~5.4|~7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Chriscubos\\Packager\\": "src"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
