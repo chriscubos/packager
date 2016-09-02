@@ -2,7 +2,7 @@
 
 Contributions are **welcome** and will be fully **credited**.
 
-We accept contributions via Pull Requests on [Github](https://github.com/Chriscubos/Pckgr).
+We accept contributions via Pull Requests on [Github](https://github.com/Chriscubos/Packager).
 
 
 ## Pull Requests
@@ -19,7 +19,7 @@ We accept contributions via Pull Requests on [Github](https://github.com/Chriscu
 
 - **One pull request per feature** - If you want to do more than one thing, send multiple pull requests.
 
-- **Send coherent history** - Make sure each individual commit in your pull request is meaningful. If you had to make multiple intermediate commits while developing, please [squash them](http://www.git-scm.com/book/en/v2/Git-Tools-Rewriting-Pckgrstory#Changing-Multiple-Commit-Messages) before submitting.
+- **Send coherent history** - Make sure each individual commit in your pull request is meaningful. If you had to make multiple intermediate commits while developing, please [squash them](http://www.git-scm.com/book/en/v2/Git-Tools-Rewriting-Packagerstory#Changing-Multiple-Commit-Messages) before submitting.
 
 
 ## Running Tests

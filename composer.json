@@ -1,16 +1,16 @@
 {
-    "name": "chriscubos/pckgr",
+    "name": "chriscubos/packager",
     "type": "library",
     "description": "Automagic package installer. One line of code to publish.",
     "keywords": [
         "Chriscubos",
         "Laravel Package Builder",
-        "Pckgr",
+        "Packager",
         "Packagist",
         "Package Class",
         "Service Provider"
     ],
-    "homepage": "https://github.com/chriscubos/pckgr",
+    "homepage": "https://github.com/chriscubos/packager",
     "license": "MIT",
     "authors": [
         {
@@ -29,7 +29,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Chriscubos\\Pckgr\\": "src"
+            "Chriscubos\\Packager\\": "src"
         }
     },
     "extra": {
