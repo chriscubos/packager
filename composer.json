@@ -25,16 +25,11 @@
         }
     ],
     "require": {
-        "php" : "~5.4|~7.0"
+        "php" : "~5.3|~7.0"
     },
     "autoload": {
         "psr-4": {
             "Chriscubos\\Packager\\": "src"
-        }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0.x-dev"
         }
     },
     "config": {
